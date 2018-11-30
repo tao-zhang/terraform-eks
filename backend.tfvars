@@ -1,0 +1,6 @@
+bucket          = "zyazhou-terraform-state"
+key             = "eks"
+region          = "eu-west-1"
+encrypt         = "true"
+dynamodb_table  = "tfstate"
+profile         = "tao"
